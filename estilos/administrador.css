@@ -1,0 +1,32 @@
+main {
+    /* background-color: aqua; */
+}
+
+form {
+    background-color: white;
+    width: 30%;
+    padding: 1rem;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 5px rgb(0, 0, 0,0.2);
+    
+}
+
+.col-md-6 {
+    padding: .5rem;
+}
+
+label {
+    /* background-color: burlywood; */
+}
+
+input {
+    /* background-color: yellow; */
+}
+
+.administrador button {
+    padding: 1rem;
+}
