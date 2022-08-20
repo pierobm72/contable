@@ -12,6 +12,7 @@
 <body>
     <?php
     include("../plantilla/dasboar.html");
+    // include("../plantilla/dashboard_new.html");
     ?>
     <div class="hola">
         <div id="con_admin">
