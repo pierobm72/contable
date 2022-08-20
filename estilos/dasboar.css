@@ -1,0 +1,79 @@
+* {
+    margin:0;
+    padding:0;
+}
+#sidebar {
+    position: fixed;
+    width: 210px;
+    height: 100%;
+    background: rgb(15, 15, 16);
+}
+#sidebar ul li {
+    color:rgba(230, 230, 230, .9);
+    text-align: left;
+    margin-left: 20px;
+    padding: 25px 0px ;
+    border-bottom: 1px solid  rgba(100, 100,  100,  .3);
+    text-decoration:none;
+    list-style-type:none;
+    padding-right: 10px;
+}
+#btn{
+    text-decoration:none;
+    color:white;
+    
+    text-align: left;
+}
+
+#salir{
+    margin-top: 258px;
+    color: red;
+    text-decoration: none;
+    
+}
+#logo {
+    border-radius: 35px;
+    margin-top: 15px;
+}
+
+#sidebar .toggle-btn{
+    position: absolute;
+    left: 230px;
+}
+
+#admin{
+    color: white;
+    padding-left: 200px;
+}
+#busqueda{
+    margin-left: 650px;
+    padding-right: 10px;
+    width: 250px;
+}
+
+header{
+    padding: 6px;
+    
+    width: 100%;
+    position: relative;
+    background-color: rgb(0, 255, 242);
+}
+.con_logo{
+    display: inline-block;
+    
+    margin-left: 37px;
+}
+
+#contenedr{
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    margin-right: 20px;
+    
+
+}
+
+
+
+
+
