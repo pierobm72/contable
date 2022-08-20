@@ -31,11 +31,11 @@
             </li>
 
             <li>
-                <a href=""><span class="las la-money-check"></span>Egresos<span></span></a>
+                <a href="./egresos.php"><span class="las la-money-check"></span>Egresos<span></span></a>
             </li>
 
             <li>
-                <a href=""><span class="las la-copy"></span>Caja<span></span></a>
+                <a href="./caja.php"><span class="las la-copy"></span>Caja<span></span></a>
             </li>
         </ul>
     </div>
