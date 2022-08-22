@@ -19,7 +19,7 @@
     <div class="sidebar-menu">
         <ul>
             <li>
-                <a href="./administrador.php" ><span class="las la-igloo"></span>Administrador<span></span></a>
+                <a href="./administrador_new.php" ><span class="las la-igloo"></span>Administrador<span></span></a>
             </li>
 
             <li>
@@ -35,7 +35,7 @@
             </li>
 
             <li>
-                <a href=""><span class="las la-copy"></span>Caja<span></span></a>
+                <a href="./caja.php"><span class="las la-copy"></span>Caja<span></span></a>
             </li>
         </ul>
     </div>
